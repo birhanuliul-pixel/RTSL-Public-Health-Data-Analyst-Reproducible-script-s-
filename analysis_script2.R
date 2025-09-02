@@ -377,5 +377,4 @@ print(doc, target = fname)
 message(glue("✅ Bulletin created: {fname}"))
 
 
- 
 
